@@ -15,5 +15,3 @@
   - ChebNet: Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering  
   - GCN: Semi-supervised Classification with Graph Convolutional Networks  
   
-  
-  test 更新by zsc
